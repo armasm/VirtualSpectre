@@ -32,7 +32,10 @@ Beta v1.0
 ![avatar](https://wx4.sinaimg.cn/large/e9978128gy1gqemdea0grj21cf0u0keh.jpg)
 
 ### 超级句柄引擎
-使用自定义句柄引擎接管，独立于系统句柄之上,无法被检测句柄
+使用虚拟句柄引擎接管调试器，虚拟的PROCESS/THREAD句柄机制独立于系统句柄机制之上,无法被探查跟枚举到
+
+下方使用调试器附加调试中，并没有被调试进程的相关句柄
+![avatar](https://wx2.sinaimg.cn/large/e9978128gy1gqemoegbs2j20xb0u07wh.jpg)
 
 ### 反ASLR
 基址固定，可以指定程序或其加载的DLL时的基址，方便调试
