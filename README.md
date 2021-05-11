@@ -6,6 +6,8 @@ a free vt-x&amp;ept debugger
 
 ![avatar](https://wx4.sinaimg.cn/mw690/e9978128gy1gqecu134gdj21110cbq5m.jpg)
 
+## 当前版本
+Beta v1.0
 ## 环境需求
 使用系统可以是所有的Win10版本x64系统 ,必须是支持intel虚拟化的cpu,且需要在主板中打开vt选项
 
