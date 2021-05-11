@@ -25,11 +25,11 @@ Beta v1.0
 ### 超级断点引擎
 一方通行，使用ept技术接管硬件断点 R/W/E。使用虚拟的硬件断点，不受占坑影响，且无法被检测到drx
 
-读写测试
+读写硬件断点测试
 
 ![avatar](https://wx3.sinaimg.cn/large/e9978128gy1gqemddcrpdj21c20u0x12.jpg)
 
-执行测试
+执行硬件断点测试
 
 ![avatar](https://wx4.sinaimg.cn/large/e9978128gy1gqemdea0grj21cf0u0keh.jpg)
 
