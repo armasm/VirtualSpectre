@@ -1,7 +1,7 @@
 ![avatar](https://wx4.sinaimg.cn/mw690/e9978128gy1gqemu16eiyj2074074t9g.jpg)
 
 # VirtualSpectre
-a free vt-x&amp;ept debugger
+a free vt-x&amp;ept debugger ,support SuperDebugEngine,SuperBreakpointerEngine,SuperHandleEngine,AntiAslr,MemoryMoniter,SelfProtect.
 
 # 虚拟幽灵
 一个免费的基于vt-x&ept技术的多功能调试器
@@ -11,7 +11,7 @@ a free vt-x&amp;ept debugger
 ## 当前版本
 Beta v1.0
 ## 环境需求
-使用系统可以是所有的Win10版本x64系统 ,必须是支持intel虚拟化的cpu,且需要在主板中打开vt选项
+操作系统需要为Win10x64(任意版本，推荐使用最新版本的win10) ,cpu必须是支持intel虚拟化,且需要在主板中打开vt选项
 
 
 ## 功能
@@ -63,4 +63,4 @@ Beta v1.0
 ## 用法
 将x32/x64dbg.exe修改成od.exe，将cheatengine.exe修改为ce.exe，然后调试器附加即可，推荐用法，x32/x64dbg附加后，cheatengine搜索数据，配合内存监视器快速定位代码
 
-## 点我下载 VirtualSpectre V1.0 Beta
+## 点我下载 VirtualSpectre V1.0 Beta 
