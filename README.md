@@ -1,3 +1,5 @@
+![avatar](https://wx4.sinaimg.cn/mw690/e9978128gy1gqemu16eiyj2074074t9g.jpg)
+
 # VirtualSpectre
 a free vt-x&amp;ept debugger
 
