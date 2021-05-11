@@ -4,6 +4,8 @@ a free vt-x&amp;ept debugger
 # 虚拟幽灵
 一个免费的基于vt-x&ept技术的多功能调试器
 
+![avatar](https://wx4.sinaimg.cn/mw690/e9978128gy1gqecu134gdj21110cbq5m.jpg)
+
 ## 环境支持
 支持所有的Win10版本x64系统 ,支持intel虚拟化的cpu,需要在主板中打开vt选项
 
@@ -21,6 +23,10 @@ a free vt-x&amp;ept debugger
 
 ### 反ASLR
 基址固定，可以指定程序或其加载的DLL时的基址，方便调试
+
+![avatar](https://wx4.sinaimg.cn/mw690/e9978128gy1gqecu142kcj211d0bdq82.jpg)
+
+![avatar](https://wx4.sinaimg.cn/mw690/e9978128gy1gqecu15resj20wj09l46m.jpg)
 
 ### 内存监视器
 监视指定进程中的内存的读写访问记录，同时支持内核地址，类似于CE的查找访问读写地址
