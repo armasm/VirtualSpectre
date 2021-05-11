@@ -16,7 +16,7 @@ a free vt-x&amp;ept debugger
 使用重构的调试引擎接管系统，不受各种反调试影响 (BE/XE/XC3/EAC/TP...)
 
 调试EAC示例:
-![avatar](https://wx1.sinaimg.cn/mw1024/e9978128gy1gqeiyn721kj21h90u0hdv.jpg)
+![avatar](https://wx1.sinaimg.cn/large/e9978128gy1gqeiyn721kj21h90u0hdv.jpg)
 
 ### 超级断点引擎
 一方通行，使用ept技术接管硬件断点 R/W/E。不受占坑影响，且无法被检测到drx
@@ -32,7 +32,12 @@ a free vt-x&amp;ept debugger
 ![avatar](https://wx4.sinaimg.cn/mw690/e9978128gy1gqecu15resj20wj09l46m.jpg)
 
 ### 内存监视器
-监视指定进程中的内存的读写访问记录，支持指定长度，同时支持内核地址，类似于CE的查找访问读写地址
+使用EPT技术监视指定进程中的内存的读写访问记录，支持指定长度，同时支持内核地址，类似于CE的查找访问读写地址，不仅可以监视目标进程，同时还可以监视其他进程的访问
+
+比如下图的调试器访问目标内存的时候也被捕捉到。
+
+![avatar](https://wx3.sinaimg.cn/large/e9978128gy1gqem55uqqmj21h10iyazu.jpg)
+
 
 ### 调试器保护
 保护调试器本身内存跟句柄不被读取，检测
