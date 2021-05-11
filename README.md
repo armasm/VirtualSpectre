@@ -21,7 +21,15 @@ Beta v1.0
 ![avatar](https://wx1.sinaimg.cn/large/e9978128gy1gqeiyn721kj21h90u0hdv.jpg)
 
 ### 超级断点引擎
-一方通行，使用ept技术接管硬件断点 R/W/E。不受占坑影响，且无法被检测到drx
+一方通行，使用ept技术接管硬件断点 R/W/E。使用虚拟的硬件断点，不受占坑影响，且无法被检测到drx
+
+读写测试
+
+![avatar](https://wx3.sinaimg.cn/large/e9978128gy1gqemddcrpdj21c20u0x12.jpg)
+
+执行测试
+
+![avatar](https://wx4.sinaimg.cn/large/e9978128gy1gqemdea0grj21cf0u0keh.jpg)
 
 ### 超级句柄引擎
 使用自定义句柄引擎接管，独立于系统句柄之上,无法被检测句柄
