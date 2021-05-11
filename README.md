@@ -63,4 +63,4 @@ Beta v1.0
 ## 用法
 将x32/x64dbg.exe修改成od.exe，将cheatengine.exe修改为ce.exe，然后调试器附加即可，推荐用法，x32/x64dbg附加后，cheatengine搜索数据，配合内存监视器快速定位代码
 
-## 点我下载 VirtualSpectre V1.0 Beta 
+## 点我下载 VirtualSpectre V1.0 Beta (Coming soon)
